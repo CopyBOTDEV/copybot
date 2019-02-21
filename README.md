@@ -1,5 +1,5 @@
 # CopyBOT
-:o What is this?
+:0 What is this?
 THIS IS COPYBOT!
 CopyBOT is a bot that has been inspired from An Idiot's Guide!
 Developers:
